@@ -25,7 +25,7 @@ sonarqube {
 }
 
 task Hola {
-	println "Hola desde consola hola.."
+	println "Hola desde consola hola..!!!"
 }
 
 task fatJar(type: Jar) {
